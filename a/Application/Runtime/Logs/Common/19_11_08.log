@@ -1,0 +1,6 @@
+[ 2019-11-08T14:53:55+08:00 ] 127.0.0.1 /a/index.php/index2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+ERR: 无法加载模块:Index2
+
